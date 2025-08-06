@@ -1,0 +1,120 @@
+[
+  {
+    "name": "a",
+    "qty": 35,
+    "price": 1200,
+    "timestamp": "2025-06-26T09:16:32.860633"
+  },
+  {
+    "name": "a",
+    "qty": 12,
+    "price": 1200,
+    "timestamp": "2025-06-26T09:16:43.140117"
+  },
+  {
+    "name": "wq",
+    "qty": 3,
+    "price": 12,
+    "timestamp": "2025-06-26T09:16:48.659893"
+  },
+  {
+    "name": "a",
+    "qty": 3,
+    "price": 1200,
+    "timestamp": "2025-06-26T09:20:45.586629"
+  },
+  {
+    "name": "a",
+    "qty": 3,
+    "price": 1200,
+    "timestamp": "2025-06-26T09:21:46.485102"
+  },
+  {
+    "name": "a",
+    "qty": 2,
+    "price": 1200,
+    "timestamp": "2025-06-26T09:21:56.462342"
+  },
+  {
+    "name": "wq",
+    "qty": 9,
+    "price": 12,
+    "timestamp": "2025-06-26T09:22:05.525462"
+  },
+  {
+    "name": "a",
+    "qty": 12,
+    "price": 1200,
+    "timestamp": "2025-06-26T09:25:16.689387"
+  },
+  {
+    "name": "a",
+    "qty": 1,
+    "price": 1200,
+    "margin_pct": 0.0,
+    "timestamp": "2025-06-26T09:37:47.233370"
+  },
+  {
+    "name": "a",
+    "qty": 1,
+    "price": 1200,
+    "margin_pct": 0.0,
+    "timestamp": "2025-06-26T09:37:55.511456"
+  },
+  {
+    "name": "a",
+    "qty": 1,
+    "price": 1200,
+    "margin_pct": 0.0,
+    "timestamp": "2025-06-26T09:38:06.528222"
+  },
+  {
+    "name": "a",
+    "qty": 1,
+    "price": 120,
+    "margin_pct": 50.0,
+    "timestamp": "2025-06-26T09:43:26.884650"
+  },
+  {
+    "name": "a",
+    "qty": 12,
+    "price": 120,
+    "margin_pct": 50.0,
+    "timestamp": "2025-06-26T09:49:42.348310"
+  },
+  {
+    "name": "a",
+    "qty": 12,
+    "price": 120,
+    "margin_pct": 50.0,
+    "timestamp": "2025-06-27T12:06:12.870180"
+  },
+  {
+    "name": "a",
+    "qty": 3,
+    "price": 120,
+    "margin_pct": 50.0,
+    "timestamp": "2025-06-30T07:54:48.393366"
+  },
+  {
+    "name": "coca cola 1,5L",
+    "qty": 3,
+    "price": 1200,
+    "margin_pct": 25.0,
+    "timestamp": "2025-06-30T07:57:07.378909"
+  },
+  {
+    "name": "a",
+    "qty": 1,
+    "price": 120,
+    "margin_pct": 25.0,
+    "timestamp": "2025-07-07T07:41:17.038937"
+  },
+  {
+    "name": "a",
+    "qty": 1,
+    "price": 120,
+    "margin_pct": 25.0,
+    "timestamp": "2025-07-07T08:20:33.369651"
+  }
+]

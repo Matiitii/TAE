@@ -1,0 +1,14 @@
+[
+  {
+    "name": "a",
+    "price": 120,
+    "stock": 13,
+    "margin_pct": 25.0
+  },
+  {
+    "name": "coca cola 1,5L",
+    "price": 1200,
+    "stock": 27,
+    "margin_pct": 25.0
+  }
+]
