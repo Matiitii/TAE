@@ -5,37 +5,15 @@ import json
 import os
 from datetime import datetime, timedelta
 
-
-
-
-from PIL import Image, ImageDraw, ImageFont
-
-# Ruta a la fuente .otf que subiste
-font_path = "/mnt/data/Coolvetica Rg.otf"
-
-# Crear una imagen en blanco
-image = Image.new("RGB", (800, 200), color=(255, 255, 255))
-
-# Cargar la fuente
-font = ImageFont.truetype(font_path, size=60)
-
-# Dibujar el texto
-draw = ImageDraw.Draw(image)
-draw.text((50, 70), "Texto con Coolvetica!", font=font, fill=(0, 0, 0))
-
-# Guardar la imagen
-image.save("/mnt/data/texto_con_coolvetica.png")
-
-
 # Paleta moderna con modo claro/oscuro
 MODE = 'light'
 COLORS = {
     'light': {
-        'BG_PRIMARY': "#F4F6F7",
-        'BG_ACCENT': "#D0D3D4",
-        'CARD_COLOR': "#FFFFFF",
+        'BG_PRIMARY': "#CDE0F0",
+        'BG_ACCENT': "#95B6E0",
+        'CARD_COLOR': "#AED3E3",
         'FG_TEXT': "#2C3E50",
-        'BTN_COLOR': "#A9CCE3",
+        'BTN_COLOR': "#A3CEEF",
         'BTN_ACTIVE': "#5499C7"
     },
     'dark': {

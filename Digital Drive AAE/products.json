@@ -10,5 +10,11 @@
     "price": 1200,
     "stock": 27,
     "margin_pct": 25.0
+  },
+  {
+    "name": "sd",
+    "price": 54,
+    "stock": 2,
+    "margin_pct": 25.0
   }
 ]
